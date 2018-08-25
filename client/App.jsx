@@ -110,6 +110,8 @@ import { NavBar } from './BoardPage.jsx';
 
 // -------------------------------------------DIFFERENT EXAMPLE ---------------------------
 
+
+//using this example: https://stackblitz.com/edit/react-router-dom-4-nested-example?file=shared%2FNavBar.js
 class App extends Component {
   render() {
     return (
